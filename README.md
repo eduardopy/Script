@@ -1,15 +1,12 @@
-# ForsenPlace Script
+# ForsenPlace Script Paraguayo
 
-Forsen related script. Forsen bots, automation, cheats, extensions, total r/place domination. Everything that is somewhat related to Forsen. 
+Este script va a poner los pixeles automaticamente y podes usar mas que una cuenta (en otra ventana). Las ordenes son recibidas de https://raw.githubusercontent.com/eduardopy/Orders/main/orders.json 
 
-## Instructions
 
-1. Install the [Tampermonkey](https://www.tampermonkey.net) browser extension.
-2. [Click this](https://github.com/ForsenPlace/Script/raw/main/script.user.js). Tampermonkey should let you install the script. Click on **Install**.
-3. Restart your browser.
-4. Open a [r/place](https://www.reddit.com/r/place) tab. If it's working you will see "Obtaining access token..." at the top right.
+## Tutorial
 
-## Things to know
+1. Instalar le extension [Tampermonkey](https://www.tampermonkey.net) en su navegador
+2. [Click aca](https://github.com/eduardopy/Script/raw/main/script.user.js). Tampermonkey te deberia preguntar si queres instalar y ahi apreta Install
+3. Reinicia tu navegador.
+4. Abrir [r/place](https://www.reddit.com/r/place) tab. Si funciona va a salir "Obtaining access token..." a la derecha hacia arriba.
 
-- The script automatically fetches new [orders](https://github.com/ForsenPlace/Orders).
-- Using multiple accounts at the same time can get you "banned" (you get a very long delay) from r/place.
